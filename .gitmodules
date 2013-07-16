@@ -1,0 +1,9 @@
+[submodule "Pebble-Nest-Backend"]
+	path = Pebble-Nest-Backend
+	url = https://github.com/Haifisch/Pebble-Nest-Backend.git
+[submodule "PebbleNestApp"]
+	path = PebbleNestApp
+	url = https://github.com/Haifisch/PebbleNestApp.git
+[submodule "PebbleNest"]
+	path = PebbleNest
+	url = https://github.com/Haifisch/PebbleNest.git
